@@ -9,8 +9,8 @@ layout: home
 
 # Interests
 
-* Software Engineering
-* Reading
-* Music
-* Traveling
-* Art
+<ul>
+{% for interest in site.interests %}
+<li><a href="{{ interest.url }}">{{ interest.type }}</a></li>
+{% endfor %}
+</ul>
