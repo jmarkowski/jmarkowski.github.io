@@ -23,9 +23,12 @@ email: janATmarkowskiDOTca
 description: >- # this means to ignore newlines until "baseurl:"
   Entrepreneurially-Spirited Software Engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://jmarkowski.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: jmarkowski
+github:
+  repository_url: https://github.com/jmarkowski
+  is_project_page: false
 
 # Build settings
 theme: jekyll-theme-slate
