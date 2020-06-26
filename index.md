@@ -9,3 +9,4 @@
 
 * [About Me](/about)
 * [Interests](/interests)
+* [Projects](/projects)
