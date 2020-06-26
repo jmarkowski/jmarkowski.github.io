@@ -2,6 +2,8 @@
 type: Software Engineering
 ---
 
+# {{ page.type }}
+
 I fell in love with programming when I was about 11 years old. My first program
 (besides the obligatory *hello world*) was a kind of choose-your-own-adventure
 game written in QBasic.

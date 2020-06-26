@@ -2,6 +2,8 @@
 type: Traveling
 ---
 
+# {{ page.type }}
+
 Who doesn't like traveling? It's a getaway from the otherwise routine
 lifestyle and conventional culture. A highlight of some of the places
 I've been lucky enough to visit:
