@@ -14,3 +14,7 @@ layout: home
 <li><a href="{{ interest.url }}">{{ interest.type }}</a></li>
 {% endfor %}
 </ul>
+
+# Contact
+
+jan at markowski dot ca.
