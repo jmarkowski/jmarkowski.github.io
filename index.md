@@ -5,14 +5,7 @@
 # This site is dedicated to cataloging anything what I'm passionate about.
 ---
 
-# Interests
+# Resources
 
-<ul>
-{% for interest in site.interests %}
-<li><a href="{{ interest.url }}">{{ interest.type }}</a></li>
-{% endfor %}
-</ul>
-
-# Contact
-
-jan at markowski dot ca.
+* [About Me](/about)
+* [Interests](/interests)
