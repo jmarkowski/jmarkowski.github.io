@@ -31,7 +31,6 @@ github_username: jmarkowski
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
-github: [metadata]
 
 # Collections
 collections:
