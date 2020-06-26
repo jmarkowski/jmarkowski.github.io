@@ -11,4 +11,5 @@
 * [Interests](/interests)
 * [Projects](/projects)
 * [Inspiration](/inspiration)
+* [My Social Network](/network)
 * [Recommendations](/recommendations)
