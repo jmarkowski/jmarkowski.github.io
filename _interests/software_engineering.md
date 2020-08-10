@@ -33,6 +33,7 @@ with:
 In the end, it doesn't matter what language you code in. The basic constructs in
 each language are fundamentally similar. After years of experience, you start
 recognizing the patterns in the art of programming itself, and realizing that
-architecture is more important that being able to forge any syntactical tricks.
+effectively architecting a system is significantly more important than being
+able to perform any syntactical tricks.
 
 <!-- TODO: Add books related to software engineering -->

@@ -42,10 +42,9 @@ type: Reading
 </span>
 {% endcapture %}
 
-## 2020 (15 reads):
+## 2020 (16 reads):
 
-Reserved for keeping a list of books I've read...
-
+- {{ star3 }} __Humility__ by Andrew Murray
 - {{ star5 }} __Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship__ by MJ DeMarco
 - {{ star3 }} __Pitbull: Lesson's from Wall Street's Champion Trader__ by Marty Schwartz
 - {{ star3 }} __Master of One__ by Jordan Raynor
