@@ -42,8 +42,9 @@ type: Reading
 </span>
 {% endcapture %}
 
-## 2020 (16 reads):
+## 2020 (17 reads):
 
+- {{ star3 }} __Garden City__ by John Mark Comer
 - {{ star3 }} __Humility__ by Andrew Murray
 - {{ star5 }} __Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship__ by MJ DeMarco
 - {{ star3 }} __Pitbull: Lesson's from Wall Street's Champion Trader__ by Marty Schwartz
