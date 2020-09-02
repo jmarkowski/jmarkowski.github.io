@@ -42,8 +42,9 @@ type: Reading
 </span>
 {% endcapture %}
 
-## 2020 (18 reads):
+## 2020 (19 reads):
 
+- {{ star4 }} __The Enemy Within__ by Kris Lundgaard
 - {{ star5 }} __Anything You Want: 40 Lessons for a New Kind of Entrepreneur__ by Derek Sivers
 - {{ star3 }} __Garden City__ by John Mark Comer
 - {{ star3 }} __Humility__ by Andrew Murray
