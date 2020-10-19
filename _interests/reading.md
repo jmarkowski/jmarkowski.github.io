@@ -42,8 +42,9 @@ type: Reading
 </span>
 {% endcapture %}
 
-## 2020 (19 reads):
+## 2020 (20 reads):
 
+- {{ star5 }} __The Count of Monte Cristo__ by Alexandre Dumas
 - {{ star4 }} __The Enemy Within__ by Kris Lundgaard
 - {{ star5 }} __Anything You Want: 40 Lessons for a New Kind of Entrepreneur__ by Derek Sivers
 - {{ star3 }} __Garden City__ by John Mark Comer
