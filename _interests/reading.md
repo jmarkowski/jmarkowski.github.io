@@ -44,6 +44,7 @@ type: Reading
 
 ## 2020 (22 reads):
 
+- {{ star5 }} __Choose Yourself!__ by James Altucher
 - {{ star4 }} __Flow__ by Mihaly Csikszentmihalyi
 - {{ star4 }} __The Screwtape Letters__ by C.S. Lewis
 - {{ star5 }} __The Count of Monte Cristo__ by Alexandre Dumas
