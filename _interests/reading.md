@@ -42,7 +42,7 @@ type: Reading
 </span>
 {% endcapture %}
 
-## 2020 (22 reads):
+## 2020 (23 reads):
 
 - {{ star5 }} __Choose Yourself!__ by James Altucher
 - {{ star4 }} __Flow__ by Mihaly Csikszentmihalyi
