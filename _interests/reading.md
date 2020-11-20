@@ -42,8 +42,10 @@ type: Reading
 </span>
 {% endcapture %}
 
-## 2020 (21 reads):
+## 2020 (22 reads):
 
+- {{ star5 }} __Choose Yourself!__ by James Altucher
+- {{ star4 }} __Flow__ by Mihaly Csikszentmihalyi
 - {{ star4 }} __The Screwtape Letters__ by C.S. Lewis
 - {{ star5 }} __The Count of Monte Cristo__ by Alexandre Dumas
 - {{ star4 }} __The Enemy Within__ by Kris Lundgaard
