@@ -42,8 +42,9 @@ type: Reading
 </span>
 {% endcapture %}
 
-## 2020 (25 reads):
+## 2020 (26 reads):
 
+- {{ star3 }} __The Almanack of Naval Ravikant__ by Eric Jorgenson
 - {{ star3 }} __Get Rich Carefully__ by James J. Cramer
 - {{ star3 }} __Sower's Seeds That Nurture Family Values__ by Brian Cavanaugh
 - {{ star5 }} __Choose Yourself!__ by James Altucher
