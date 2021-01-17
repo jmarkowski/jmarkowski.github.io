@@ -42,6 +42,11 @@ type: Reading
 </span>
 {% endcapture %}
 
+## 2021 (1 read):
+
+- {{ star4 }} __Limitless__ by Jim Kwik
+
+
 ## 2020 (26 reads):
 
 - {{ star3 }} __The Almanack of Naval Ravikant__ by Eric Jorgenson
