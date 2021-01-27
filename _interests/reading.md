@@ -42,8 +42,9 @@ type: Reading
 </span>
 {% endcapture %}
 
-## 2021 (1 read):
+## 2021 (2 reads):
 
+- {{ star3 }} __Beating the Street__ by Peter Lync
 - {{ star4 }} __Limitless__ by Jim Kwik
 
 
