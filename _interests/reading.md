@@ -42,8 +42,9 @@ type: Reading
 </span>
 {% endcapture %}
 
-## 2021 (3 reads):
+## 2021 (4 reads):
 
+- {{ star5 }} __The Ride of a Lifetime__ by Robert Iger
 - {{ star4 }} __Ultimate Proof Of Creation__ by Jason Lisle
 - {{ star3 }} __Beating the Street__ by Peter Lync
 - {{ star4 }} __Limitless__ by Jim Kwik
