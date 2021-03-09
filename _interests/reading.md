@@ -47,7 +47,7 @@ type: Reading
 - {{ star5 }} __Thinking, Fast And Slow__ by Daniel Kahneman
 - {{ star5 }} __The Ride of a Lifetime__ by Robert Iger
 - {{ star4 }} __Ultimate Proof Of Creation__ by Jason Lisle
-- {{ star3 }} __Beating the Street__ by Peter Lync
+- {{ star3 }} __Beating the Street__ by Peter Lynch
 - {{ star4 }} __Limitless__ by Jim Kwik
 
 
