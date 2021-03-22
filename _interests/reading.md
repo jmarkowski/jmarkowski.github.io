@@ -42,8 +42,9 @@ type: Reading
 </span>
 {% endcapture %}
 
-## 2021 (5 reads):
+## 2021 (6 reads):
 
+- {{ star5 }} __Desiring God__ by John Piper
 - {{ star5 }} __Thinking, Fast And Slow__ by Daniel Kahneman
 - {{ star5 }} __The Ride of a Lifetime__ by Robert Iger
 - {{ star4 }} __Ultimate Proof Of Creation__ by Jason Lisle
