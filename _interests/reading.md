@@ -42,8 +42,9 @@ type: Reading
 </span>
 {% endcapture %}
 
-## 2021 (6 reads):
+## 2021 (7 reads):
 
+- {{ star5 }} __Awaken The Giant Within__ by Anthony Robbins
 - {{ star5 }} __Desiring God__ by John Piper
 - {{ star5 }} __Thinking, Fast And Slow__ by Daniel Kahneman
 - {{ star5 }} __The Ride of a Lifetime__ by Robert Iger
