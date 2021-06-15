@@ -42,8 +42,9 @@ type: Reading
 </span>
 {% endcapture %}
 
-## 2021 (8 reads):
+## 2021 (9 reads):
 
+- {{ star3 }} __Predictably Irrational__ by Dan Ariely
 - {{ star3 }} __Give and Take__ by Adam Grant
 - {{ star5 }} __Awaken The Giant Within__ by Anthony Robbins
 - {{ star5 }} __Desiring God__ by John Piper
